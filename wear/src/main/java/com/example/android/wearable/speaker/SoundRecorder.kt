@@ -146,7 +146,7 @@ class SoundRecorder(
             state = State.IDLE
         }
     }
-
+// Grabar micrófono
     companion object {
         private const val TAG = "SoundRecorder"
         private const val RECORDING_RATE = 8000 // can go up to 44K, if needed
