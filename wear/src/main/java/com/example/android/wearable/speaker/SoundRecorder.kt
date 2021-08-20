@@ -132,6 +132,7 @@ class SoundRecorder(
 
         audioRecord.startRecording()
 
+        // Cambiar grabación
         try {
             withContext(Dispatchers.IO) {
                 context.openFileOutput(outputFileName, Context.MODE_PRIVATE).buffered().use { bufferedOutputStream ->
