@@ -106,7 +106,7 @@ class SoundRecorder(
      *
      * This method is cancellable, and cancelling it will stop recording.
      */
-    // Guardar grabación
+    //R13 - Guardar grabación
     @RequiresPermission(Manifest.permission.RECORD_AUDIO)
     suspend fun record() {
         if (state != State.IDLE) {
@@ -132,7 +132,7 @@ class SoundRecorder(
 
         audioRecord.startRecording()
 
-        // Cambiar grabación
+        //R14 - Cambiar grabación
         try {
             withContext(Dispatchers.IO) {
                 context.openFileOutput(outputFileName, Context.MODE_PRIVATE).buffered().use { bufferedOutputStream ->
@@ -148,7 +148,7 @@ class SoundRecorder(
             state = State.IDLE
         }
     }
-// Grabar micrófono
+//R10 - Grabar micrófono
     companion object {
         private const val TAG = "SoundRecorder"
         private const val RECORDING_RATE = 8000 // can go up to 44K, if needed

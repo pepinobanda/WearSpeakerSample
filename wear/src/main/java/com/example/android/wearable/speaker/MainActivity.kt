@@ -183,7 +183,7 @@ class MainActivity : AppCompatActivity() {
             AppState.PlayingVoice -> {
                 binding.play.contentDescription = getString(R.string.stop_playing_recording)
 
-                //Cambiar canción
+                //R15 - Cambiar canción
                 soundRecorder.play()
 
                 // Don't call onAction directly here or below, since we are in the job that ongoingWork is

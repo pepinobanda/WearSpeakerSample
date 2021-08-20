@@ -111,8 +111,8 @@ class MainViewModel(application: Application) : AndroidViewModel(application) {
      * The primary state machine for the app, determining the new [AppState] based on the incoming [AppAction],
      * updating other state and sending out events as appropriate.
      */
-    // Reproduccir grabación
-    // Reproduccir música
+    //R11 - Reproduccir grabación
+    //R12 - Reproduccir música
     fun onAction(action: AppAction) {
         val oldState = appState.value
         val newState = when (action) {
