@@ -106,6 +106,7 @@ class SoundRecorder(
      *
      * This method is cancellable, and cancelling it will stop recording.
      */
+    // Guardar grabación
     @RequiresPermission(Manifest.permission.RECORD_AUDIO)
     suspend fun record() {
         if (state != State.IDLE) {
