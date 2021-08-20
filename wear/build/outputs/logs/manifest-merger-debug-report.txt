@@ -1,0 +1,202 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml:17:1-48:12
+INJECTED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml:17:1-48:12
+INJECTED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml:17:1-48:12
+INJECTED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml:17:1-48:12
+MERGED from [androidx.databinding:viewbinding:4.2.2] C:\caches\transforms-3\4d675a55bc1093a2c36bb4796959f7cc\transformed\jetified-viewbinding-4.2.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.3.1] C:\caches\transforms-3\c930b2d18c8a0867d0ee9f501b219dc6\transformed\jetified-activity-ktx-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.0-alpha03] C:\caches\transforms-3\5726639e6ffea6550691b25cd0855ab6\transformed\jetified-lifecycle-runtime-ktx-2.4.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.0-alpha03] C:\caches\transforms-3\6100ff74e449cdbdc0f76f817d57dd49\transformed\jetified-lifecycle-viewmodel-ktx-2.4.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.wear:wear:1.1.0] C:\caches\transforms-3\149832bf87fc96fda5a98901fdff30ee\transformed\wear-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\caches\transforms-3\9db1f6ec3c25a77009a7879ed8bee917\transformed\constraintlayout-2.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\caches\transforms-3\5057b3d3bce19e45cb4513914d1b9480\transformed\appcompat-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.6.0] C:\caches\transforms-3\aa868cfaa454b1898562eabd543f48f7\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.media:media:1.4.1] C:\caches\transforms-3\fcfc9cfcd8e7f27a8821c30757bd8a0d\transformed\media-1.4.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] C:\caches\transforms-3\aa97a4344c52881b92b4075210c0f8f7\transformed\percentlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\caches\transforms-3\35e9f17f12614cada08c61c1df5b49b8\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\caches\transforms-3\a1e1777ccc391b1b5a17403b2fe4bcce\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\caches\transforms-3\9b968a70a96cd5cbee4ffb7e7c737368\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.3.1] C:\caches\transforms-3\6680e1c6f6b2ea6765d539a720f99ada\transformed\jetified-activity-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\caches\transforms-3\89ae57764f95c53d6d8e6475d5853a31\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\caches\transforms-3\ee47d58ee2cd6560999fd45d54f7a2b2\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\caches\transforms-3\c5e2c5ec2530f76109b32a57b62be58b\transformed\jetified-savedstate-ktx-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\caches\transforms-3\d69add4b8703520c8ece696f8ae2ffd4\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\caches\transforms-3\f89631e6b45b987affe22fe7cf43a1ef\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\caches\transforms-3\8edcd9091e009e437518e887a2e090c7\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\caches\transforms-3\c1aaa4c11c93f92dd18b85c7d15f5aed\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\caches\transforms-3\7bbbe702f0f4788220a64993ccdacf2e\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\caches\transforms-3\a100148bbf1d9a3a791df881eabd2f27\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\caches\transforms-3\ed658e7a36c2f3533529bcfd857afd91\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\caches\transforms-3\bc40c2ab1d40962e995ae8a343e7e711\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\caches\transforms-3\7fbdd579f73d90be0a68c912300efa34\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0-alpha03] C:\caches\transforms-3\ca01fbfee494719140231da8db6885c3\transformed\lifecycle-runtime-2.4.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.0-alpha03] C:\caches\transforms-3\3138ae91f674115c29e3008c39ff1a4d\transformed\lifecycle-viewmodel-2.4.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\caches\transforms-3\a6062d0c4cbfe71d709e1b83c8dc5728\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\caches\transforms-3\1b5417bdc77749e1701bfb359a1deb21\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\caches\transforms-3\c87546332d09c15c2aed7deeb1954df0\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\caches\transforms-3\165e4c23f126dc60c5a3a1c5738bcdda\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\caches\transforms-3\c7ebbd4d1465303bd5d5855de1594364\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\caches\transforms-3\1e1c8ffd860ae8b4f4254d2b9952a44b\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\caches\transforms-3\11383ce2350d893f9ab52f5a9dc969d3\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml:17:1-48:12
+INJECTED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml:17:1-48:12
+INJECTED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml:17:1-48:12
+	package
+		ADDED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml:19:5-51
+		INJECTED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml
+		ADDED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml:17:1-48:12
+		INJECTED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml
+		ADDED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml:17:1-48:12
+		INJECTED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml:18:5-63
+uses-feature#android.hardware.type.watch
+ADDED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml:21:5-64
+	android:name
+		ADDED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml:21:19-61
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml:24:5-71
+	android:name
+		ADDED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml:24:22-68
+application
+ADDED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml:26:5-47:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\caches\transforms-3\9db1f6ec3c25a77009a7879ed8bee917\transformed\constraintlayout-2.1.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\caches\transforms-3\9db1f6ec3c25a77009a7879ed8bee917\transformed\constraintlayout-2.1.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.6.0] C:\caches\transforms-3\7fbdd579f73d90be0a68c912300efa34\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\caches\transforms-3\7fbdd579f73d90be0a68c912300efa34\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\caches\transforms-3\a6062d0c4cbfe71d709e1b83c8dc5728\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\caches\transforms-3\a6062d0c4cbfe71d709e1b83c8dc5728\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\caches\transforms-3\7fbdd579f73d90be0a68c912300efa34\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml:30:9-35
+	android:label
+		ADDED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml:29:9-41
+	android:icon
+		ADDED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml:28:9-43
+	android:allowBackup
+		ADDED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml:27:9-35
+	android:theme
+		ADDED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml:31:9-59
+meta-data#com.google.android.wearable.standalone
+ADDED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml:33:9-35:36
+	android:value
+		ADDED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml:35:13-33
+	android:name
+		ADDED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml:34:13-66
+activity#com.example.android.wearable.speaker.MainActivity
+ADDED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml:37:9-46:20
+	android:label
+		ADDED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml:39:13-45
+	android:exported
+		ADDED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml:40:13-36
+	android:name
+		ADDED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml:38:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml:41:13-45:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml:44:17-77
+	android:name
+		ADDED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml:44:27-74
+uses-sdk
+INJECTED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml
+INJECTED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:4.2.2] C:\caches\transforms-3\4d675a55bc1093a2c36bb4796959f7cc\transformed\jetified-viewbinding-4.2.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.2.2] C:\caches\transforms-3\4d675a55bc1093a2c36bb4796959f7cc\transformed\jetified-viewbinding-4.2.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.3.1] C:\caches\transforms-3\c930b2d18c8a0867d0ee9f501b219dc6\transformed\jetified-activity-ktx-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.3.1] C:\caches\transforms-3\c930b2d18c8a0867d0ee9f501b219dc6\transformed\jetified-activity-ktx-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.0-alpha03] C:\caches\transforms-3\5726639e6ffea6550691b25cd0855ab6\transformed\jetified-lifecycle-runtime-ktx-2.4.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.0-alpha03] C:\caches\transforms-3\5726639e6ffea6550691b25cd0855ab6\transformed\jetified-lifecycle-runtime-ktx-2.4.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.0-alpha03] C:\caches\transforms-3\6100ff74e449cdbdc0f76f817d57dd49\transformed\jetified-lifecycle-viewmodel-ktx-2.4.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.0-alpha03] C:\caches\transforms-3\6100ff74e449cdbdc0f76f817d57dd49\transformed\jetified-lifecycle-viewmodel-ktx-2.4.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.wear:wear:1.1.0] C:\caches\transforms-3\149832bf87fc96fda5a98901fdff30ee\transformed\wear-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.wear:wear:1.1.0] C:\caches\transforms-3\149832bf87fc96fda5a98901fdff30ee\transformed\wear-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\caches\transforms-3\9db1f6ec3c25a77009a7879ed8bee917\transformed\constraintlayout-2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\caches\transforms-3\9db1f6ec3c25a77009a7879ed8bee917\transformed\constraintlayout-2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\caches\transforms-3\5057b3d3bce19e45cb4513914d1b9480\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\caches\transforms-3\5057b3d3bce19e45cb4513914d1b9480\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\caches\transforms-3\aa868cfaa454b1898562eabd543f48f7\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\caches\transforms-3\aa868cfaa454b1898562eabd543f48f7\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.media:media:1.4.1] C:\caches\transforms-3\fcfc9cfcd8e7f27a8821c30757bd8a0d\transformed\media-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.4.1] C:\caches\transforms-3\fcfc9cfcd8e7f27a8821c30757bd8a0d\transformed\media-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] C:\caches\transforms-3\aa97a4344c52881b92b4075210c0f8f7\transformed\percentlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] C:\caches\transforms-3\aa97a4344c52881b92b4075210c0f8f7\transformed\percentlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\caches\transforms-3\35e9f17f12614cada08c61c1df5b49b8\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\caches\transforms-3\35e9f17f12614cada08c61c1df5b49b8\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\caches\transforms-3\a1e1777ccc391b1b5a17403b2fe4bcce\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\caches\transforms-3\a1e1777ccc391b1b5a17403b2fe4bcce\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\caches\transforms-3\9b968a70a96cd5cbee4ffb7e7c737368\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\caches\transforms-3\9b968a70a96cd5cbee4ffb7e7c737368\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.3.1] C:\caches\transforms-3\6680e1c6f6b2ea6765d539a720f99ada\transformed\jetified-activity-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.3.1] C:\caches\transforms-3\6680e1c6f6b2ea6765d539a720f99ada\transformed\jetified-activity-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\caches\transforms-3\89ae57764f95c53d6d8e6475d5853a31\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\caches\transforms-3\89ae57764f95c53d6d8e6475d5853a31\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\caches\transforms-3\ee47d58ee2cd6560999fd45d54f7a2b2\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\caches\transforms-3\ee47d58ee2cd6560999fd45d54f7a2b2\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\caches\transforms-3\c5e2c5ec2530f76109b32a57b62be58b\transformed\jetified-savedstate-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] C:\caches\transforms-3\c5e2c5ec2530f76109b32a57b62be58b\transformed\jetified-savedstate-ktx-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\caches\transforms-3\d69add4b8703520c8ece696f8ae2ffd4\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\caches\transforms-3\d69add4b8703520c8ece696f8ae2ffd4\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\caches\transforms-3\f89631e6b45b987affe22fe7cf43a1ef\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\caches\transforms-3\f89631e6b45b987affe22fe7cf43a1ef\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\caches\transforms-3\8edcd9091e009e437518e887a2e090c7\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\caches\transforms-3\8edcd9091e009e437518e887a2e090c7\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\caches\transforms-3\c1aaa4c11c93f92dd18b85c7d15f5aed\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\caches\transforms-3\c1aaa4c11c93f92dd18b85c7d15f5aed\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\caches\transforms-3\7bbbe702f0f4788220a64993ccdacf2e\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\caches\transforms-3\7bbbe702f0f4788220a64993ccdacf2e\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\caches\transforms-3\a100148bbf1d9a3a791df881eabd2f27\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\caches\transforms-3\a100148bbf1d9a3a791df881eabd2f27\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\caches\transforms-3\ed658e7a36c2f3533529bcfd857afd91\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\caches\transforms-3\ed658e7a36c2f3533529bcfd857afd91\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\caches\transforms-3\bc40c2ab1d40962e995ae8a343e7e711\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\caches\transforms-3\bc40c2ab1d40962e995ae8a343e7e711\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\caches\transforms-3\7fbdd579f73d90be0a68c912300efa34\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\caches\transforms-3\7fbdd579f73d90be0a68c912300efa34\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0-alpha03] C:\caches\transforms-3\ca01fbfee494719140231da8db6885c3\transformed\lifecycle-runtime-2.4.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0-alpha03] C:\caches\transforms-3\ca01fbfee494719140231da8db6885c3\transformed\lifecycle-runtime-2.4.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.0-alpha03] C:\caches\transforms-3\3138ae91f674115c29e3008c39ff1a4d\transformed\lifecycle-viewmodel-2.4.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.0-alpha03] C:\caches\transforms-3\3138ae91f674115c29e3008c39ff1a4d\transformed\lifecycle-viewmodel-2.4.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\caches\transforms-3\a6062d0c4cbfe71d709e1b83c8dc5728\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\caches\transforms-3\a6062d0c4cbfe71d709e1b83c8dc5728\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\caches\transforms-3\1b5417bdc77749e1701bfb359a1deb21\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\caches\transforms-3\1b5417bdc77749e1701bfb359a1deb21\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\caches\transforms-3\c87546332d09c15c2aed7deeb1954df0\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\caches\transforms-3\c87546332d09c15c2aed7deeb1954df0\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\caches\transforms-3\165e4c23f126dc60c5a3a1c5738bcdda\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\caches\transforms-3\165e4c23f126dc60c5a3a1c5738bcdda\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\caches\transforms-3\c7ebbd4d1465303bd5d5855de1594364\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\caches\transforms-3\c7ebbd4d1465303bd5d5855de1594364\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\caches\transforms-3\1e1c8ffd860ae8b4f4254d2b9952a44b\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\caches\transforms-3\1e1c8ffd860ae8b4f4254d2b9952a44b\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\caches\transforms-3\11383ce2350d893f9ab52f5a9dc969d3\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\caches\transforms-3\11383ce2350d893f9ab52f5a9dc969d3\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml
+INJECTED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml
+		ADDED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml
+		ADDED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\criss\Desktop\WearSpeakerSample\wear\src\main\AndroidManifest.xml
+queries
+ADDED from [androidx.media:media:1.4.1] C:\caches\transforms-3\fcfc9cfcd8e7f27a8821c30757bd8a0d\transformed\media-1.4.1\AndroidManifest.xml:24:5-28:15
+intent#action:name:android.media.browse.MediaBrowserService
+ADDED from [androidx.media:media:1.4.1] C:\caches\transforms-3\fcfc9cfcd8e7f27a8821c30757bd8a0d\transformed\media-1.4.1\AndroidManifest.xml:25:9-27:18
+action#android.media.browse.MediaBrowserService
+ADDED from [androidx.media:media:1.4.1] C:\caches\transforms-3\fcfc9cfcd8e7f27a8821c30757bd8a0d\transformed\media-1.4.1\AndroidManifest.xml:26:13-79
+	android:name
+		ADDED from [androidx.media:media:1.4.1] C:\caches\transforms-3\fcfc9cfcd8e7f27a8821c30757bd8a0d\transformed\media-1.4.1\AndroidManifest.xml:26:21-76

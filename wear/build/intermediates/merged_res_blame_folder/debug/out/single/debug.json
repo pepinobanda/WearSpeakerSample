@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\criss\\Desktop\\WearSpeakerSample\\wear\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\criss\\Desktop\\WearSpeakerSample\\wear\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\criss\\Desktop\\WearSpeakerSample\\wear\\build\\intermediates\\res\\merged\\debug\\raw_sound.mp3.flat",
+        "source": "C:\\Users\\criss\\Desktop\\WearSpeakerSample\\wear\\src\\main\\res\\raw\\sound.mp3"
+    },
+    {
+        "merged": "C:\\Users\\criss\\Desktop\\WearSpeakerSample\\wear\\build\\intermediates\\res\\merged\\debug\\drawable_ic_mic.xml.flat",
+        "source": "C:\\Users\\criss\\Desktop\\WearSpeakerSample\\wear\\src\\main\\res\\drawable\\ic_mic.xml"
+    },
+    {
+        "merged": "C:\\Users\\criss\\Desktop\\WearSpeakerSample\\wear\\build\\intermediates\\res\\merged\\debug\\drawable_ic_audiotrack.xml.flat",
+        "source": "C:\\Users\\criss\\Desktop\\WearSpeakerSample\\wear\\src\\main\\res\\drawable\\ic_audiotrack.xml"
+    },
+    {
+        "merged": "C:\\Users\\criss\\Desktop\\WearSpeakerSample\\wear\\build\\intermediates\\res\\merged\\debug\\xml_scene.xml.flat",
+        "source": "C:\\Users\\criss\\Desktop\\WearSpeakerSample\\wear\\src\\main\\res\\xml\\scene.xml"
+    },
+    {
+        "merged": "C:\\Users\\criss\\Desktop\\WearSpeakerSample\\wear\\build\\intermediates\\res\\merged\\debug\\layout_main_activity.xml.flat",
+        "source": "C:\\Users\\criss\\Desktop\\WearSpeakerSample\\wear\\src\\main\\res\\layout\\main_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\criss\\Desktop\\WearSpeakerSample\\wear\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\criss\\Desktop\\WearSpeakerSample\\wear\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\criss\\Desktop\\WearSpeakerSample\\wear\\build\\intermediates\\res\\merged\\debug\\drawable_color_circle.xml.flat",
+        "source": "C:\\Users\\criss\\Desktop\\WearSpeakerSample\\wear\\src\\main\\res\\drawable\\color_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\criss\\Desktop\\WearSpeakerSample\\wear\\build\\intermediates\\res\\merged\\debug\\drawable_ic_play_arrow.xml.flat",
+        "source": "C:\\Users\\criss\\Desktop\\WearSpeakerSample\\wear\\src\\main\\res\\drawable\\ic_play_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\criss\\Desktop\\WearSpeakerSample\\wear\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\criss\\Desktop\\WearSpeakerSample\\wear\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\criss\\Desktop\\WearSpeakerSample\\wear\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\criss\\Desktop\\WearSpeakerSample\\wear\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\criss\\Desktop\\WearSpeakerSample\\wear\\build\\intermediates\\res\\merged\\debug\\color_icon_button_tint.xml.flat",
+        "source": "C:\\Users\\criss\\Desktop\\WearSpeakerSample\\wear\\src\\main\\res\\color\\icon_button_tint.xml"
+    }
+]
